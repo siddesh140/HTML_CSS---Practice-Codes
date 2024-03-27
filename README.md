@@ -1,2 +1,2 @@
-# HTML_CSS---Practice-Codes
+# HTML---Practice-Codes
 Try to improve your web devlopment skills using css and html...
